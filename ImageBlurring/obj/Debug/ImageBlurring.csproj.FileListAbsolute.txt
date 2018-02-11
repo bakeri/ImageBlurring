@@ -1,0 +1,10 @@
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\obj\Debug\ImageBlurring.csprojResolveAssemblyReference.cache
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\obj\Debug\ImageBlurring.Form1.resources
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\obj\Debug\ImageBlurring.Properties.Resources.resources
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\obj\Debug\ImageBlurring.csproj.GenerateResource.Cache
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\bin\Debug\ImageBlurring.exe.config
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\bin\Debug\ImageBlurring.exe
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\bin\Debug\ImageBlurring.pdb
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\obj\Debug\ImageBlurring.exe
+c:\users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\obj\Debug\ImageBlurring.pdb
+C:\Users\ianba\onedrive\documents\visual studio 2017\Projects\ImageBlurring\ImageBlurring\obj\Debug\ImageBlurring.csproj.CoreCompileInputs.cache
